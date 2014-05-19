@@ -1,0 +1,1 @@
+var sns = new AWS.SNS();
